@@ -132,6 +132,14 @@ a {
 .header li a {
     color: #F1F1F1;
 }
+
+.logo{
+    text-align: left;
+    padding-top: 10px;
+    margin-left: 30px;
+    margin-bottom: -50px;
+}
+
 /**/
 
 /*Footer*/
