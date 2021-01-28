@@ -86,3 +86,17 @@ font-size:.40em;
 margin-bottom:30px;
 }
 /**/
+
+/*Forside*/
+.forside {
+    padding: 12rem;
+    background-color: #CA0B1A;
+  }
+
+  .forside h1 {
+    color: var(--black);
+    font-size: 2.5rem;
+    text-align: left;
+    margin-top: 8rem;
+    padding-left: 120px;
+  }
