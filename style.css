@@ -21,29 +21,29 @@ body {
 }
 
 h1 {
-    color: #f1f1f1;
+    color: #f3f4ed;
     font-family: Baloo;
     text-align: center;
     font-size: 45px;
 }
 
 p {
-    color: #F1F1F1;
+    color: #f3f4ed;
     font-family: ArialB;
 }
 
 li {
-    color: #F1F1F1;
+    color: #f3f4ed;
     font-family: ArialB;
 }
 
 a {
-    color: #F1F1F1;
+    color: #f3f4ed;
     font-family: ArialB;
 }
 
 .copyright {
-    color: #F1F1F1;
+    color: #f3f4ed;
     font-family: ArialB;
 }
 /**/
