@@ -30,24 +30,40 @@ p {
     font-family: ArialB;
 }
 
+li {
+    color: #F1F1F1;
+    font-family: ArialB;
+}
+
 .copyright {
     color: #F1F1F1;
     font-family: ArialB;
 }
 /**/
-.footer{
+
+/*Header*/
+.header {
+    color: #F1F1F1;
+    font-family: ArialB;
+    background-color:#171515;
+}
+/**/
+
+/*Footer*/
+.footer {
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
-    color:#171515;
+    color: #F1F1F1;
+    font-family: ArialB;
     text-align: center;
     font-size: 40px;
     padding: top 20px;
     padding-bottom: 20px;
     background-color:#171515;
 }
-.footer-text{
+.footer-text {
 text-align:center;
 font-size:.50em;
 color:#171515;
@@ -55,11 +71,12 @@ margin-bottom:20px;
 margin-top:20px;
 }
 
-.footer a{
+.footer a {
 color:#171515;
 text-decoration: none;
 }
-.copyright{
+.copyright {
 font-size:.40em;
 margin-bottom:30px;
 }
+/**/
