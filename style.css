@@ -178,7 +178,7 @@ margin-bottom:30px;
     margin-left: 400px;
     display: inline-block;
     border: none;
-    background-color: #E38424;
+    background-color: #4B8C99;
     color: #F3F4ED;
     font-size: 18px;
     margin-top: 100px;
@@ -191,7 +191,7 @@ margin-bottom:30px;
     margin-left: 130px;
     display: inline-block;
     border: none;
-    background-color: #E38424;
+    background-color: #4B8C99;
     color: #F3F4ED;
     font-size: 18px;
     margin-top: 100px;
@@ -201,12 +201,12 @@ margin-bottom:30px;
     }
 
 .forside button:hover {
-    background-color: #ff9a35;
+    background-color: #5da6b4;
 }
 
 .forside button:active {
-  background-color: #ff9a35;
-  box-shadow: 0 6px rgb(155, 91, 8);
+  background-color: #5da6b4;
+  box-shadow: 0 6px rgb(8, 121, 155);
   transform: translateY(2px);
 }
   /*Om os*/
