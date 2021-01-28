@@ -24,7 +24,7 @@ h1 {
     color: #f1f1f1;
     font-family: Baloo;
     text-align: center;
-    font-size: 40px;
+    font-size: 45px;
 }
 
 p {
@@ -88,3 +88,71 @@ font-size:.40em;
 margin-bottom:30px;
 }
 /**/
+
+/*Forside*/
+.forside {
+    padding: 6rem;
+    padding-bottom: 15rem;
+    background-color: #CA0B1A;
+    background-image: linear-gradient(#CA0B1A, #330000);
+  }
+
+  .forside h1 {
+    color: #FABB22;
+    font-size: 5rem;
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+    letter-spacing: 0px;
+  }
+.forside button {
+    display: inline-block;
+    border: none;
+    background-color: #FABB22;
+    color: #F3F4ED;
+    font-size: 18px;
+    margin-top: 40px;
+    padding: 15px 60px;
+    border-radius: 10px;
+    cursor: pointer;
+    }
+
+.forside button:hover {
+    background-color: #f8d226
+}
+
+.forside button:active {
+  background-color: #f8d226;
+  box-shadow: 0 6px rgb(165, 2, 2);
+  transform: translateY(2px);
+}
+  /* Om os */
+  .box{
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  
+
+    }
+    .box div{
+    max-width: 500px;
+    padding: 15px;
+    margin: 20px;
+    background-color:#f3f4ed;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    }
+    
+    .box h2,p{
+     margin: 15px;
+     color:#171515;
+     font-family:ArialB ;
+     font-size: 40px;
+    }
+    
+    .box p{
+    font-size: 22px;
+    }
+
+  /**/
