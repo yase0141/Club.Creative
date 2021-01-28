@@ -25,7 +25,7 @@ h1 {
     color: #e38424;
     font-family: Baloo;
     text-align: center;
-    font-size: 45px;
+    font-size: 55px;
 }
 
 h2 {
@@ -170,12 +170,10 @@ margin-bottom:30px;
 .forside {
     padding: 6rem;
     padding-bottom: 15rem;
-    background-color: #CA0B1A;
-    background-image: linear-gradient(#CA0B1A, #330000);
   }
 
   .forside h1 {
-    color: #FABB22;
+    color: #E38424;
     font-size: 5rem;
     margin-top: 4rem;
     margin-bottom: 2rem;
@@ -184,7 +182,7 @@ margin-bottom:30px;
 .forside button {
     display: inline-block;
     border: none;
-    background-color: #FABB22;
+    background-color: #E38424;
     color: #F3F4ED;
     font-size: 18px;
     margin-top: 40px;
@@ -194,12 +192,12 @@ margin-bottom:30px;
     }
 
 .forside button:hover {
-    background-color: #f8d226
+    background-color: #ff9a35;
 }
 
 .forside button:active {
-  background-color: #f8d226;
-  box-shadow: 0 6px rgb(165, 2, 2);
+  background-color: #ff9a35;
+  box-shadow: 0 6px rgb(155, 91, 8);
   transform: translateY(2px);
 }
   /* Om os */
@@ -229,7 +227,8 @@ margin-bottom:30px;
     }
     .box h2{
        
-        color:#E38424;
+        color:#e38424;
+        font-family: Baloo;
         
        }
    
