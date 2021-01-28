@@ -21,15 +21,30 @@ body {
 }
 
 h1 {
-    color: #f3f4ed;
+    margin-top: 50px;
+    color: #171515;
     font-family: Baloo;
     text-align: center;
     font-size: 45px;
 }
 
+h2 {
+    color: #171515;
+    font-family: Baloo;
+    text-align: center;
+    font-size: 30px;
+}
+
 p {
     color: #f3f4ed;
     font-family: ArialB;
+}
+
+.p1 {
+    color: #000000;
+    font-family: ArialB;
+    font-size: 20px;
+    text-align: center;
 }
 
 li {
@@ -48,11 +63,61 @@ a {
 }
 /**/
 
+/*Tilmelding*/
+.formular {
+    justify-content: center;
+    background-color: #f3f4ee;
+    width: 85%;
+    max-width: 800px;
+    height: 300px;
+    padding: 10px 10px;
+    text-align: left;
+    margin-left: 510px;
+}
+
+.Navn {
+    margin: 4px 0px;
+    padding: 6px 25px;
+}
+
+.Email {
+    margin: 4px 0px;
+    padding: 6px 25px;
+}
+
+.Mobilnummer {
+    margin: 4px 0px;
+    padding: 6px 25px;
+}
+
+.Besked {
+    margin: 4px 0px;
+    padding: 6px 25px;
+}
+
+.Send {
+    margin: 4px 0px;
+    padding: 6px 25px;
+    color: #68c2d3
+}
+
+.Besked input,.Besked textarea {
+    width: 100%;
+    height: 100px;
+}
+
+.text {
+    color: #171515
+}
+
+.formular {border-radius: 30px;}
+/**/
+
 /*Header*/
 .header {
     color: #F1F1F1;
     font-family: ArialB;
-    background-color:#171515;
+    background-color: #171515;
     text-align: center;
 }
 /**/
@@ -69,18 +134,18 @@ a {
     font-size: 40px;
     padding-top: 20px;
     padding-bottom: 20px;
-    background-color:#171515;
+    background-color: #171515;
 }
 .footer-text {
 text-align:center;
 font-size:.50em;
-color:#171515;
+color: #171515;
 margin-bottom:20px;
 margin-top:20px;
 }
 
 .footer a {
-color:#171515;
+color: #171515;
 text-decoration: none;
 }
 .copyright {
