@@ -120,6 +120,18 @@ a {
     background-color:#68C2D3;
     text-align: center;
 }
+
+.header li {
+    padding: 18px 20px;
+    color: #F1F1F1;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 15px;
+}
+
+.header li a {
+    color: #F1F1F1;
+}
 /**/
 
 /*Footer*/
