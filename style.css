@@ -106,7 +106,7 @@ margin-bottom:30px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    color:#171515;
+  
 
     }
     .box div{
@@ -121,6 +121,9 @@ margin-bottom:30px;
     
     .box h2,p{
      margin: 15px;
+     color:#171515;
+     font-family:ArialB ;
+     font-size: 40px;
     }
     
     .box p{
