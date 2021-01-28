@@ -24,7 +24,7 @@ h1 {
     color: #f3f4ed;
     font-family: Baloo;
     text-align: center;
-    font-size: 45px;
+    font-size: 55px;
 }
 
 p {
@@ -152,7 +152,8 @@ margin-bottom:30px;
     }
     .box h2{
        
-        color:#E38424;
+        color:#e38424;
+        font-family: Baloo;
         
        }
    
