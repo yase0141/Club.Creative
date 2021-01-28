@@ -100,3 +100,31 @@ margin-bottom:30px;
     margin-top: 8rem;
     padding-left: 120px;
   }
+  /* Om os */
+  .box{
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+    
+    }
+    .box div{
+    max-width: 500px;
+    padding: 15px;
+    margin: 20px;
+    background-color:#f3f4ed;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    }
+    
+    .box h2,p{
+     margin: 15px;
+    }
+    
+    .box p{
+    font-size: 22px;
+    }
+
+  /**/
