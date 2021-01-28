@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: #adadad;
+    background-color: #0D0D0D;
 }
 
 /*Tekst*/
@@ -22,14 +22,14 @@ body {
 
 h1 {
     margin-top: 50px;
-    color: #171515;
+    color: #e38424;
     font-family: Baloo;
     text-align: center;
     font-size: 45px;
 }
 
 h2 {
-    color: #171515;
+    color: #f3f4ee;
     font-family: Baloo;
     text-align: center;
     font-size: 30px;
@@ -41,7 +41,7 @@ p {
 }
 
 .p1 {
-    color: #000000;
+    color: #f3f4ee;
     font-family: ArialB;
     font-size: 20px;
     text-align: center;
@@ -66,7 +66,7 @@ a {
 /*Tilmelding*/
 .formular {
     justify-content: center;
-    background-color: #f3f4ee;
+    background-color: #68C2D3;
     width: 85%;
     max-width: 800px;
     height: 300px;
@@ -117,7 +117,7 @@ a {
 .header {
     color: #F1F1F1;
     font-family: ArialB;
-    background-color: #171515;
+    background-color:#68C2D3;
     text-align: center;
 }
 /**/
@@ -134,7 +134,7 @@ a {
     font-size: 40px;
     padding-top: 20px;
     padding-bottom: 20px;
-    background-color: #171515;
+    background-color:#68C2D3;
 }
 .footer-text {
 text-align:center;
@@ -215,7 +215,12 @@ margin-bottom:30px;
      font-family:ArialB ;
      font-size: 40px;
     }
-    
+    .box h2{
+       
+        color:#E38424;
+        
+       }
+   
     .box p{
     font-size: 22px;
     }
