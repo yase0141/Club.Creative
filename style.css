@@ -167,25 +167,34 @@ margin-bottom:30px;
 /**/
 
 /*Forside*/
-.forside {
-    padding: 6rem;
-    padding-bottom: 15rem;
-  }
 
   .forside h1 {
     color: #E38424;
     font-size: 5rem;
-    margin-top: 4rem;
-    margin-bottom: 2rem;
-    letter-spacing: 0px;
+    margin-top: 7rem;
+    letter-spacing: 2px;
   }
-.forside button {
+.enknap {
+    margin-left: 400px;
     display: inline-block;
     border: none;
     background-color: #E38424;
     color: #F3F4ED;
     font-size: 18px;
-    margin-top: 40px;
+    margin-top: 100px;
+    padding: 15px 80px;
+    border-radius: 10px;
+    cursor: pointer;
+    }
+
+.enlilleknap{
+    margin-left: 100px;
+    display: inline-block;
+    border: none;
+    background-color: #E38424;
+    color: #F3F4ED;
+    font-size: 18px;
+    margin-top: 100px;
     padding: 15px 60px;
     border-radius: 10px;
     cursor: pointer;
