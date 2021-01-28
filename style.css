@@ -106,8 +106,8 @@ margin-bottom:30px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    
-    
+    color:#171515;
+
     }
     .box div{
     max-width: 500px;
